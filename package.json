@@ -2,7 +2,11 @@
   "name": "git-commit-reminder",
   "displayName": "Git Commit Reminder",
   "description": "An extension which remind you to commit & push periodically",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hardiklakhalani/git-commit-reminder.git"
+},
   "engines": {
     "vscode": "^1.83.0"
   },
