@@ -1,7 +1,6 @@
 # Git Commit Reminder for VSCode
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Downloads](https://img.shields.io/badge/downloads-1000%2B-brightgreen)
 
 ## Introduction
 
