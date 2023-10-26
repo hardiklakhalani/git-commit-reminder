@@ -3,6 +3,7 @@
   "displayName": "Git Commit Reminder",
   "description": "An extension which remind you to commit & push periodically",
   "version": "1.0.0",
+  "publisher": "hardik-lakhlani",
   "repository": {
     "type": "git",
     "url": "https://github.com/hardiklakhalani/git-commit-reminder.git"
